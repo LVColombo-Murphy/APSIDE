@@ -1,0 +1,10 @@
+# APSIDE
+## A Python Solver for Integrating tiDal characteristics from Equations of state
+
+APSIDE computes the various tidal characteristics such as apsidal motion constant, obrital precession, and tidal deformability for a spherically symmetric body of isotropic material defined by a given composition of Equation of State (EOS). This is performed through the solution of the TOV or Hydrostatic Equilibrium equations to produce the apsidal motion constant (or Tidal Love Number if chosen), radius, and mass, as well as a host of internal characteristics. 
+
+## Licensing
+
+APSIDE is the result of work done by M. Grant Roberts and Liam Colombo-Murphy. It is freely distributed under the MIT License for use in research, educational, and personal settings. It is our hope that APSIDE will be of benefit to others. Please reference the use of APSIDE by citing the following publication:
+
+TEMPORARY CITATION
