@@ -7,7 +7,7 @@ APSIDE computes the various tidal characteristics such as apsidal motion constan
 
 APSIDE is the result of work done by M. Grant Roberts and Liam Colombo-Murphy. It is freely distributed under the MIT License for use in research, educational, and personal settings. It is our hope that APSIDE will be of benefit to others. Please reference the use of APSIDE by citing the following publication:
 
-Colombo-Murphy et al., What Are Pulsar Companions Made of? (Temporary until release)
+Colombo-Murphy, L., Brown, L., Profumo, S., Roberts, M. G., Westerling, A. (2026 Apr.), What are Pulsar Companions Made of? Using Gravitational Tides to Probe Their Composition, https://doi.org/10.48550/arXiv.2604.02725
 
 ## Note
 APSIDE is currently being updated from version 0 to be more accessible and add additional utility. Please stay tuned for updates!
